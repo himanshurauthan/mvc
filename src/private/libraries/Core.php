@@ -3,7 +3,7 @@ namespace App\Libraries;
 
 class Core
 {
-    public $currentController = 'Page';
+    public $currentController = 'Pages';
     public $currentMethod = 'index';
     public $params = [];
 
